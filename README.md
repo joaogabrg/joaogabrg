@@ -30,13 +30,3 @@ Projeto acadêmico de automação de uma maquete residencial, utilizando sensore
 
 **Instituto Federal do Piauí — IFPI**  
 Curso Técnico em Informática
-
-## Objetivo
-
-Desenvolver experiência profissional na área de tecnologia e aprimorar continuamente minhas habilidades em desenvolvimento de software.
-
-## Contato
-
-- GitHub: https://github.com/SEU_USUARIO
-- LinkedIn: SEU_LINKEDIN
-- E-mail: SEU_EMAIL
