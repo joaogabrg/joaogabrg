@@ -18,14 +18,6 @@ Estudante do Instituto Federal do Piauí (IFPI), interessado em desenvolvimento 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
-## Projetos
-
-### Fidely
-Plataforma de avaliação de produtos e serviços, com sistema de feedback, recompensas e interação entre consumidores e empresas.
-
-### Automação Residencial
-Projeto acadêmico de automação de uma maquete residencial, utilizando sensores, programação e componentes eletrônicos.
-
 ## Formação
 
 **Instituto Federal do Piauí — IFPI**  
