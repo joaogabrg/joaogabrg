@@ -1,4 +1,5 @@
-# João Gabriel
+<img width="480" height="270" alt="TimBurtonFilmGIFbyTechNoir" src="https://github.com/user-attachments/assets/2df345ba-779d-42f6-bd5e-f37c67cf1141" />
+
 
 💻 Estudante de Informática | Desenvolvedor em formação
 
